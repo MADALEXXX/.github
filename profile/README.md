@@ -99,7 +99,6 @@
   </div>
   <br>
 </div>
-<hr>
 
 Happy reading! And please do reach out if you have inquiries. [Bluesky][bsky] 
 and [Discord][discord] are two ways to find us. If you venture to the fun 
