@@ -62,49 +62,38 @@
   <br>
   <br>
   <div align="center">
-    <h1>Vegas Rift</h1>
-    <b>A Tale from the Odds-n-Endings Boutique</b><br>
-    An old woman risks everything to find her long lost husband.<br>
-    <a
-      href="http://books.apple.com/us/book/id6692634424">
-        Apple Books
+     <a
+      href='https://www.patreon.com/posts/vegas-rift-124522448'>
+      <img
+        src='./assets/vegas-rift-cover-2.png'
+        alt="Background depicts a giant tree with gnarled roots spread across the foreground of the bottom of the image, the trunk and branches extending up and out across the rest of the cover. The background is dimmed, with a column of light superimposed upon it. In the upper left, the Mad Alex emblem sits just above the word 'Vegas,' which is set over the word 'Rift.' Across the center, in two lines, are the statement 'A Tale from the Odds n Endings Boutique.' The author's name, 'Mad Alex,' is displayed in the lower right."
+        width=300px
+      />
     </a>
-    •
     <a
-      href="https://www.barnesandnoble.com/w/vegas-rift-mad-alex/1146410990?ean=2940185809808">
-        Barnes & Noble
-    </a>
-    <br>
-    <br>
-    <h1>Showdown at Sunrise</h1>
-    <b>A Tale from the Odds-n-Endings Boutique</b><br>
-    A merchant finds himself in a heap of trouble after winning a gunfight out 
-    of sheer luck. He’s willing to trade away everything he owns for a chance 
-    at getting out of it, but the bargain he makes takes a wild turn.<br>
-    <a
-      href="http://books.apple.com/us/book/id6741198308">
-        Apple Books
-    </a>
-    •
-    <a
-      href="https://www.barnesandnoble.com/w/showdown-at-sunrise-mad-alex/1146930192?ean=2940184539683">
-        Barnes & Noble
+      href='https://www.patreon.com/posts/showdown-at-124522248'>
+      <img
+        src='./assets/showdown-at-sunrise-cover.png'
+        alt="The silhouette of a cowboy on a horse is superimposed over a background depicting an old farmhouse in a desert brush landscape. The author's name, 'Mad Alex,' is display over the title, 'Showdown at Sunrise,' at the top center of the design. At the bottom, the words 'A Tale From the Odds n Endings Boutique' are placed over the Mad Alex emblem."
+        width=300px
+      />
     </a>
     <br>
-    <br>
-    <h1>Calypso</h1>
-    <b>A Tale from the Odds-n-Endings Boutique</b><br>
-    Some gifts are better left untouched, for they pay dividends for eternity. 
-    One person learned the hard way; when they sought answers, they learned 
-    everyone before them learned the hard way as well.<br>
     <a
-      href="http://books.apple.com/us/book/id6742083639">
-        Apple Books
+      href='https://www.patreon.com/posts/calypso-124522034'>
+      <img
+        src='./assets/calypso.png'
+        alt="Book cover for Calypso. The title is spread across the center toward the top, superimposed over the Mad Alex emblem. The background is a splash of dark colors-yellows, blues, greens, and black. The author's name, 'Mad Alex' is centered at the bottom of the design over text printed in playbill flourish that reads 'presents a tale from the Odds n Endings Boutique."
+        width=300px
+      />
     </a>
-    •
     <a
-      href="https://www.barnesandnoble.com/w/calypso-mad-alex/1147035473?ean=2940184455297">
-        Barnes & Noble
+      href='https://www.patreon.com/posts/artists-spell-124520807'>
+      <img
+        src='./assets/artists-spell.png'
+        alt="Book cover for The Artist's Spell. The title is stacked, the word 'The' aligned left at the top, the world 'Artist\'s' directly below it, aligned center, and the word 'Spell' directly below 'Artist\'s' aligned right. The Mad Alex emblem is placed next to the word 'The' just above 'Artist\'s.' The author's name, 'Mad Alex' is centered at the bottom of the design. The words and emblem are superimposed on the backdrop of a canvas with smatterings of paint."
+        width=300px
+      />
     </a>
     <br>
   </div>
